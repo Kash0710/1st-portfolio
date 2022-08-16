@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .halfwidth{
     width: 50%;
@@ -16,4 +17,13 @@ section{
 }
 .halfwidth img{
     width: 50%;
+    padding-left: 40px;
+}
+.visit-button{
+    text-decoration: none;
+    background-color: rgb(150, 84, 211);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
 }
