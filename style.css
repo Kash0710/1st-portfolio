@@ -17,7 +17,7 @@ section{
 }
 .halfwidth img{
     width: 50%;
-    padding-left: 40px;
+    padding-left: 50px;
 }
 .visit-button{
     text-decoration: none;
@@ -26,4 +26,18 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 400;
+}
+.punjabiwidth img{
+    width: 500px;
+}
+.dreamwidth{
+    padding-top: 100px;
+}
+.exwidth{
+    width: 50%;
+}
+
+.sec3{
+    display:flex;
+    margin-bottom: 50px;
 }
