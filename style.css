@@ -1,0 +1,19 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.portfolio{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.halfwidth{
+    width: 50%;
+    padding-left: 2%;
+}
+.halfwidth img{
+    width: 50%;
+}
